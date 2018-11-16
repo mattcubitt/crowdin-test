@@ -1,3 +1,4 @@
 {
-  "some_string": "test"
+  "some_string": "test",
+  "another_test": "another"
 }
